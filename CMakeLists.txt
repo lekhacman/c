@@ -4,3 +4,8 @@ project(c C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(c main.c)
+add_executable(c1.1 src/1.1.c)
+add_executable(c1.8 src/1.8.c)
+add_executable(c1.9 src/1.9.c)
+add_executable(c1.10 src/1.10.c)
+add_executable(c2.1 src/2.1.c)
